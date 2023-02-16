@@ -1,0 +1,320 @@
+{
+  "data": {
+    "candidates": [
+      { "place_id": "ChIJ-xZO6d9zw0cRyG7TlL1q0OU" },
+      { "place_id": "ChIJK2TR2EZxw0cRUtSWAoR7l00" }
+    ],
+    "status": "OK"
+  },
+  "reviews": {
+    "html_attributions": [],
+    "result": {
+      "address_components": [
+        {
+          "long_name": "SNCB Gent Sint Pieters Station",
+          "short_name": "SNCB Gent Sint Pieters Station",
+          "types": ["premise"]
+        },
+        { "long_name": "1", "short_name": "1", "types": ["street_number"] },
+        {
+          "long_name": "Koningin Maria Hendrikaplein",
+          "short_name": "Kon. Maria Hendrikaplein",
+          "types": ["route"]
+        },
+        {
+          "long_name": "Gent",
+          "short_name": "Gent",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Oost-Vlaanderen",
+          "short_name": "OV",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Vlaams Gewest",
+          "short_name": "Vlaams Gewest",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Belgium",
+          "short_name": "BE",
+          "types": ["country", "political"]
+        },
+        { "long_name": "9000", "short_name": "9000", "types": ["postal_code"] }
+      ],
+      "adr_address": "Gent Sint Pieters Station, SNCB Gent Sint Pieters Station, <span class=\"street-address\">Kon. Maria Hendrikaplein 1</span>, <span class=\"postal-code\">9000</span> <span class=\"locality\">Gent</span>, <span class=\"country-name\">Belgium</span>",
+      "business_status": "OPERATIONAL",
+      "current_opening_hours": {
+        "open_now": false,
+        "periods": [
+          {
+            "close": { "date": "2023-02-19", "day": 0, "time": "1800" },
+            "open": { "date": "2023-02-19", "day": 0, "time": "0930" }
+          },
+          {
+            "close": { "date": "2023-02-20", "day": 1, "time": "1900" },
+            "open": { "date": "2023-02-20", "day": 1, "time": "0730" }
+          },
+          {
+            "close": { "date": "2023-02-21", "day": 2, "time": "1900" },
+            "open": { "date": "2023-02-21", "day": 2, "time": "0730" }
+          },
+          {
+            "close": { "date": "2023-02-22", "day": 3, "time": "1900" },
+            "open": { "date": "2023-02-22", "day": 3, "time": "0730" }
+          },
+          {
+            "close": { "date": "2023-02-16", "day": 4, "time": "1900" },
+            "open": { "date": "2023-02-16", "day": 4, "time": "0730" }
+          },
+          {
+            "close": { "date": "2023-02-17", "day": 5, "time": "1900" },
+            "open": { "date": "2023-02-17", "day": 5, "time": "0730" }
+          },
+          {
+            "close": { "date": "2023-02-18", "day": 6, "time": "1800" },
+            "open": { "date": "2023-02-18", "day": 6, "time": "0830" }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 7:30 AM – 7:00 PM",
+          "Tuesday: 7:30 AM – 7:00 PM",
+          "Wednesday: 7:30 AM – 7:00 PM",
+          "Thursday: 7:30 AM – 7:00 PM",
+          "Friday: 7:30 AM – 7:00 PM",
+          "Saturday: 8:30 AM – 6:00 PM",
+          "Sunday: 9:30 AM – 6:00 PM"
+        ]
+      },
+      "dine_in": true,
+      "editorial_summary": {
+        "language": "en",
+        "overview": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability."
+      },
+      "formatted_address": "Gent Sint Pieters Station, SNCB Gent Sint Pieters Station, Kon. Maria Hendrikaplein 1, 9000 Gent, Belgium",
+      "formatted_phone_number": "09 280 07 85",
+      "geometry": {
+        "location": { "lat": 51.0360527, "lng": 3.7113051 },
+        "viewport": {
+          "northeast": { "lat": 51.0374880802915, "lng": 3.712652080291503 },
+          "southwest": { "lat": 51.0347901197085, "lng": 3.709954119708498 }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+32 9 280 07 85",
+      "name": "Starbucks",
+      "opening_hours": {
+        "open_now": false,
+        "periods": [
+          {
+            "close": { "day": 0, "time": "1800" },
+            "open": { "day": 0, "time": "0930" }
+          },
+          {
+            "close": { "day": 1, "time": "1900" },
+            "open": { "day": 1, "time": "0730" }
+          },
+          {
+            "close": { "day": 2, "time": "1900" },
+            "open": { "day": 2, "time": "0730" }
+          },
+          {
+            "close": { "day": 3, "time": "1900" },
+            "open": { "day": 3, "time": "0730" }
+          },
+          {
+            "close": { "day": 4, "time": "1900" },
+            "open": { "day": 4, "time": "0730" }
+          },
+          {
+            "close": { "day": 5, "time": "1900" },
+            "open": { "day": 5, "time": "0730" }
+          },
+          {
+            "close": { "day": 6, "time": "1800" },
+            "open": { "day": 6, "time": "0830" }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 7:30 AM – 7:00 PM",
+          "Tuesday: 7:30 AM – 7:00 PM",
+          "Wednesday: 7:30 AM – 7:00 PM",
+          "Thursday: 7:30 AM – 7:00 PM",
+          "Friday: 7:30 AM – 7:00 PM",
+          "Saturday: 8:30 AM – 6:00 PM",
+          "Sunday: 9:30 AM – 6:00 PM"
+        ]
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114539065552747696578\">Tom Quartier</a>"
+          ],
+          "photo_reference": "AfLeUgPpsRqYBNIpfPfo2xmUAozdJeAzTObbg0le-GhL_Ep-dnI8GOS5HhJ3ezCyIMCWMPs1XC4HManQxyhfFd9C4OZVdl5MlrS47HOOBVleD2i1-WcSbsRr6QdyawCAUp_urJrz9xRGCg4YvlpySovD1jOmMHqsDXU4GAZP3L-2xIdBYqEc",
+          "width": 4000
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100933258216537895853\">Animesh Kumar</a>"
+          ],
+          "photo_reference": "AfLeUgOzZJAXtdWSk5yHhwipBE1Wjk5JRIWbNo5le5FP6XwQaieEAGdXr0WjYq9xB8YPsvks8oyuFsvSiwFqnEZjxIGx2RJo4o-4jFdU2YHU5Pwkj1jAmEmjwDU2NgJgPndwFajNZLEIDIKBLnI2RLmlgeGcc5toiHsMsIyivupiSCSNca9n",
+          "width": 3024
+        },
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112279360585815389413\">Alfonso Alegre García</a>"
+          ],
+          "photo_reference": "AfLeUgNR2lmyo_W7ojMTK2pkgY17j4N8wpzFMZMO2dJiGfzXhR6ELnFV9mWxgc6ecsXOpRrTCRV8gwOA6-FIWhjEgm8h1KNQDDRUAtKnlwv53M40KlRX0oHzaB60ck5NovvG0mUteoAQhKWINW6HTRkmYbA-CtKxbjzZyKUC7uUmvMQ-njsk",
+          "width": 3024
+        },
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100579557635055826882\">Edwin Castillo</a>"
+          ],
+          "photo_reference": "AfLeUgND-YrRVNl7pFTUvZgZNSOJ52I9xCRywZR5LdnlcfeSV1S9mQ_4I8O1sy1Y-ZgaZRo0U3oeMse7JKk3YdDTkDZvjExnT22nlKTaIniw1T2ZZfaOopX0-ku6n8v2vj5PcDsk_BzOJ6MYiZq7wFtiiw0bR6ck_WNTL5Es7ZJbhr_aEI1B",
+          "width": 4032
+        },
+        {
+          "height": 1476,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104803761319097243804\">Thierry Duprez</a>"
+          ],
+          "photo_reference": "AfLeUgOxKk_dwI-Fj_JIHiCPmT_zfnBYOVb88wV5fQadneQl420SVCL33L3pIod9ql_5o5PS0yi_cbtrqMDXYL_E26haVkrzKrMGW6D64GAs06ytNw4_qthFKshRbXw00r8T5xLg-epLeIJ9hUWjbA39TGD-ni35J-FaIemUCi40Seqt5Yxf",
+          "width": 2582
+        },
+        {
+          "height": 434,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114632597848312168341\">Paul De Brauwere</a>"
+          ],
+          "photo_reference": "AfLeUgN-Q2_PmWdY_9C2ta3iKNqMaK8cHu8l___YD__Ttco2TAxj70QV47mJKwLPEvoEDVVJDdecH3ZrwjiqFY_QmYE6GU2wI3CBh6DYLbYcwmRz2yoNpZdbvw-L4Jl1-s3-8sil6LA_koj-sPDhGUg1eBGXlKxL-3WExf6gAIMih47tkwE-",
+          "width": 599
+        },
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115502911181042993410\">Anabelle Martinez</a>"
+          ],
+          "photo_reference": "AfLeUgMg8cKeKRrV6z6RysIdbSFdzj0QJ9OoKSvjflJN8C9ky588pj_kY-fOjrz_zuGwZgVvPHsIENtUNx7ApOK9AKs59WBEQSEu_ltcRrjMCRTZnxc0RSawjek3mFIMeaV-5TSFeEgirk3w7c6TnmoZJgC0ZBv6FwwZZ3hXZzUwPIs3K-O0",
+          "width": 4624
+        },
+        {
+          "height": 780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109407245568931833640\">HM</a>"
+          ],
+          "photo_reference": "AfLeUgN210cfmqCvUywmt5KSNS1GujBzSeWu1L-L20ece8por6U1Ix1N614TvIKTiwP-_WQUDsXua13ZsvC-B2cj7JqpiMaF3fvXDOAygafk2SsNvQ3MPX1s7sDVIdwr00VTlw2Ec98Le9ydzewJzFVRDU_0AknZNvEUNJQliz17nSoC1dau",
+          "width": 1029
+        },
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114943756454831149702\">Raibeart &amp; Catharina</a>"
+          ],
+          "photo_reference": "AfLeUgOOF8NdwVzhbQK55nbMLozVb9oewkOTlL2JizS2Y3vFTHL2MLSDwgGFttHMa_BqtOB8gxNZcoE-240_Ua6WehMYkpc4tPxBdvVchlqCe2odNgucoazdZFHkDQFslid6LPvxGMn9W7elHfYp1MRYgctYMNV9ByWVTv3H66JaqWNQeloi",
+          "width": 2448
+        },
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100473728515928951647\">Pabs Mendoza</a>"
+          ],
+          "photo_reference": "AfLeUgNu2nIGzubK4h12DAczCEErvn1lc5mAXD_jwQlbmUiCdWlqI4K61Ke0xSz6ZjIFwzleI2e1kVPYV1Q7Zyp-WwYaFwE_sKhtnGLgoygyUi3o6Xzjmofl7i7JnxkZ4zlpbYtbc6pO1J1tLo4dWTO3UcZlZpJnwxh0pTDdyG1W6GQjBVzK",
+          "width": 2248
+        }
+      ],
+      "place_id": "ChIJ-xZO6d9zw0cRyG7TlL1q0OU",
+      "plus_code": {
+        "compound_code": "2PP6+CG Ghent, Belgium",
+        "global_code": "9F352PP6+CG"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJ-xZO6d9zw0cRyG7TlL1q0OU",
+      "reservable": false,
+      "reviews": [
+        {
+          "author_name": "Barbara Lindner",
+          "author_url": "https://www.google.com/maps/contrib/114532982856750121523/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD5-WClqwApfbQHi0Pqiy-6leS6_d2I50jDl4f8i52aOTA=s128-c0x00000000-cc-rp-mo-ba5",
+          "rating": 5,
+          "relative_time_description": "4 months ago",
+          "text": "I loved visiting this particular Starbucks because it is in a beautiful location and even includes an outdoor café. It is hard to order the same when you order back in the states since there is no half-and-half and one day they didn’t have a blender but they try very hard to get you a drink that you will enjoy! Had a nice selection of different Starbucks products to purchase that I didn’t see the same exactly in the US",
+          "time": 1663697253,
+          "translated": false
+        },
+        {
+          "author_name": "Manyee Lau",
+          "author_url": "https://www.google.com/maps/contrib/111685558382600134302/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD5-WCmZ7ETPO8YgzhUPR9b25mGnIF5tb56sgHpZqYoD=s128-c0x00000000-cc-rp-mo",
+          "rating": 3,
+          "relative_time_description": "2 months ago",
+          "text": "Friendly service but very slow. If you do not have more than 25 min before your train departure do not go there if you see there is a lot of people. I had 18 min to spare so I thought I could grab a Starbucks.... Nope.\n\nI had to leave to catch my train before they even started preparing my cappucino. I have told the girl at the cashier to cancel my drink and they didn't even offer to refund me the money. Or what they could have done is giving me a full stamped card so I can order next time for free.\n\nSorry but this a missed opportunity in client service.\n\nI will think twice going there again.",
+          "time": 1670072733,
+          "translated": false
+        },
+        {
+          "author_name": "Milan Saelens",
+          "author_url": "https://www.google.com/maps/contrib/115733121207863039309/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD5-WClImJchTsX_mHl6RPaHj1HtHsclen2ZS4JWzhNDQag=s128-c0x00000000-cc-rp-mo-ba4",
+          "rating": 5,
+          "relative_time_description": "2 months ago",
+          "text": "Friendly staff, good coffee and whatever other Starbucks beverage you'd like. Occasionally some beverages are sold-out but this only happens rarely. The interior is very nice and the tables are clean most of the time. Starbucks was already pricy but lately the prices have been going up significantly.",
+          "time": 1669735610,
+          "translated": false
+        },
+        {
+          "author_name": "Ennun",
+          "author_url": "https://www.google.com/maps/contrib/111014989939553405650/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD5-WCn9h_z_eZyWuRg-vmnQ_g-jy8OR0YlXAORleiX5Mg=s128-c0x00000000-cc-rp-mo-ba4",
+          "rating": 4,
+          "relative_time_description": "4 months ago",
+          "text": "It's a starbucks so it is what it is, not the best drinks in the world but not the worst. My friend did have to wait for ages in line while people who ordered after her got their drinks though, which was annoying to say the least.",
+          "time": 1665126253,
+          "translated": false
+        },
+        {
+          "author_name": "Maaike Ghyllebert",
+          "author_url": "https://www.google.com/maps/contrib/109498570618375054007/reviews",
+          "language": "en",
+          "original_language": "en",
+          "profile_photo_url": "https://lh3.googleusercontent.com/a/AEdFTp6rFc3VylheeC28qAIbnMT0imHByLSso88Q8qKZ=s128-c0x00000000-cc-rp-mo-ba5",
+          "rating": 4,
+          "relative_time_description": "3 months ago",
+          "text": "The coffee has never been great for me, but that's Starbucks. I do like the walls inside. And it's convenient.",
+          "time": 1667047991,
+          "translated": false
+        }
+      ],
+      "serves_beer": false,
+      "serves_breakfast": true,
+      "serves_dinner": false,
+      "serves_lunch": true,
+      "serves_wine": false,
+      "takeout": true,
+      "types": ["cafe", "point_of_interest", "food", "store", "establishment"],
+      "url": "https://maps.google.com/?cid=16559853192319561416",
+      "user_ratings_total": 1269,
+      "utc_offset": 60,
+      "vicinity": "SNCB Gent Sint Pieters Station, Gent Sint Pieters Station, Koningin Maria Hendrikaplein 1, Gent",
+      "website": "https://www.starbucks.com/",
+      "wheelchair_accessible_entrance": true
+    },
+    "status": "OK"
+  }
+}
